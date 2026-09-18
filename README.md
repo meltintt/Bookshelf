@@ -7,7 +7,7 @@ A Flutter app for searching and saving books using the Open Library API.
 
 ## How to run
 
-1. Install Flutter SDK 3.3+.
+1. Install Flutter SDK 3.3+. 
 2. Clone the repository.
 3. Run:
 
