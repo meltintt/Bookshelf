@@ -4,7 +4,7 @@ import 'package:flutter/foundation.dart';
 class BookSummary {
   const BookSummary({
     required this.id,
-    required this.title,
+    required this.title, 
     required this.author,
     this.firstPublicationYear,
     this.coverUrl,
