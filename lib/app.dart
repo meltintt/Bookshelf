@@ -4,7 +4,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'core/di.dart';
 import 'presentation/favorites/favorites_page.dart';
 import 'presentation/search/search_page.dart';
-
+ 
 class BookshelfApp extends StatelessWidget {
   const BookshelfApp({super.key});
 
