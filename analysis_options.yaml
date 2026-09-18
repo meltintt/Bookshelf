@@ -3,7 +3,7 @@ include: package:flutter_lints/flutter.yaml
 linter:
   rules:
     prefer_const_constructors: true
-    prefer_const_literals_to_create_immutables: true
+    prefer_const_literals_to_create_immutables: true 
     avoid_print: true
     always_declare_return_types: true
     avoid_function_literals_in_foreach_calls: true
