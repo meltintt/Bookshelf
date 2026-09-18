@@ -7,7 +7,7 @@ import '../../domain/models/book.dart';
 class BookDetailPage extends ConsumerWidget {
   const BookDetailPage({super.key, required this.summary});
 
-  final BookSummary summary;
+  final BookSummary summary; 
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
